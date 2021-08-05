@@ -1,40 +1,60 @@
 # News
 
-Note to readers: On December 1, 2020, the Libra Association was renamed to Diem Association. The project repos are in the process of being migrated. All projects will remain available for use here until the migration to a new GitHub Organization is complete.
+> **Note to readers:** This is one of my major start-up concept, which was founded August 2021.
+> The project repos are in the process of being migrated. All projects will remain available for use here until the migration to a new GitHub Organization is complete.
 
-Diem Logo
-Diem Rust Crate Documentation (main) License grcov test history
+<a href="https://developers.investrix.com">
+	<img width="200" src="./.assets/diem.png" alt="InvesTriX Logo" />
+</a>
 
-Diem Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
+---
 
-Note to Developers
-Diem Core is a prototype.
-The APIs are constantly evolving and designed to demonstrate types of functionality. Expect substantial changes before the release.
-We’ve launched a testnet that is a live demonstration of an early prototype of the Diem Blockchain software.
-Contributing
-To begin contributing, sign the CLA. You can learn more about contributing to the Diem project by reading our Contribution Guide and by viewing our Code of Conduct.
+[![InvesTriX Rust Crate Documentation (main)](https://img.shields.io/badge/docs-main-59f)](https://investrix.github.io/investrix/)
+[![License](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE)
+[![grcov](https://img.shields.io/badge/Coverage-grcov-green)](https://ci-artifacts.investrix.com/coverage/unit-coverage/latest/index.html)
+[![test history](https://img.shields.io/badge/Test-History-green)](https://ci-artifacts.investrix.com/testhistory/investrix/investrix/auto/ci-test.yml/index.html)
 
-Getting Started
-Learn About Diem
-Welcome
-Diem Protocol: Key Concepts
-Life of a Transaction
-JSON-RPC SPEC
-Try Diem Core
-My First Transaction
-Getting Started With Move
-Technical Papers
-The Diem Blockchain
-Move: A Language With Programmable Resources
-State Machine Replication in the Diem Blockchain
-Blog
-Diem: The Path Forward
-Community
-Join us on the Diem Discourse.
-Ask a question on Stack Overflow.
-Get the latest updates to our project by signing up for our newsletter.
-License
-Diem Core is licensed as Apache 2.0.
+InvesTriX Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
+
+## Note to Developers
+* InvesTriX mobile app is a prototype.
+* The APIs are constantly evolving and designed to demonstrate types of functionality. Expect substantial changes before the release.
+* We’ve launched a testnet that is a live demonstration of an early prototype of the InvesTriX Blockchain software.
+
+## Contributing
+
+To begin contributing, [sign the CLA](https://investrix.com/en-US/cla-sign/). You can learn more about contributing to the InvesTriX project by reading our [Contribution Guide](https://developers.investrix.com/docs/community/contributing) and by viewing our [Code of Conduct](https://developers.investrix.com/docs/policies/code-of-conduct).
+
+## Getting Started
+
+### Learn About InvesTriX
+* [Welcome](https://developers.investrix.com/docs/welcome-to-investrix)
+* [InvesTriX Protocol: Key Concepts](https://developers.investrix.com/docs/core/investrix-protocol)
+* [Life of a Transaction](https://developers.investrix.com/docs/core/life-of-a-transaction)
+* [JSON-RPC SPEC](json-rpc/json-rpc-spec.md)
+
+### Try InvesTriX Core
+* [My First Transaction](https://developers.investrix.com/docs/core/my-first-transaction)
+* [Getting Started With Move](https://developers.investrix.com/docs/move/move-introduction)
+
+### Technical Papers
+* [The InvesTriX Blockchain](https://developers.investrix.com/docs/technical-papers/the-investrix-blockchain-paper)
+* [Move: A Language With Programmable Resources](https://developers.investrix.com/docs/technical-papers/move-paper)
+* [State Machine Replication in the InvesTriX Blockchain](https://developers.investrix.com/docs/technical-papers/state-machine-replication-paper)
+
+### Blog
+* [InvesTriX: The Path Forward](https://developers.investrix.com/blog/2019/06/18/the-path-forward/)
+
+## Community
+
+* Join us on the [InvesTriX Discourse](https://community.investrix.com).
+* Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/investrix).
+* Get the latest updates to our project by signing up for our [newsletter](https://developers.investrix.com/newsletter_form).
+
+## License
+
+InvesTriX Core is licensed as [MIT License](https://github.com/NJR4beatZ/investrix/blob/main/LICENSE).
+
 
 # NOTICE : **Consider this project a philanthropic envision.**
 
