@@ -13,7 +13,7 @@ I'm not sure what will happen to this repo yet but I have had a good relationshi
 -------
 
 
-# **NOTICE : I am open for pull requests or other contributions of endpoints feel free to drop your commits!**
+# **N.B. : I am open for pull requests or other contributions of endpoints feel free to drop your commits!**
 
 # Unofficial Documentation of InvesTriX Trade's Private API
 
