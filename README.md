@@ -1,5 +1,41 @@
 # News
 
+Note to readers: On December 1, 2020, the Libra Association was renamed to Diem Association. The project repos are in the process of being migrated. All projects will remain available for use here until the migration to a new GitHub Organization is complete.
+
+Diem Logo
+Diem Rust Crate Documentation (main) License grcov test history
+
+Diem Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
+
+Note to Developers
+Diem Core is a prototype.
+The APIs are constantly evolving and designed to demonstrate types of functionality. Expect substantial changes before the release.
+We’ve launched a testnet that is a live demonstration of an early prototype of the Diem Blockchain software.
+Contributing
+To begin contributing, sign the CLA. You can learn more about contributing to the Diem project by reading our Contribution Guide and by viewing our Code of Conduct.
+
+Getting Started
+Learn About Diem
+Welcome
+Diem Protocol: Key Concepts
+Life of a Transaction
+JSON-RPC SPEC
+Try Diem Core
+My First Transaction
+Getting Started With Move
+Technical Papers
+The Diem Blockchain
+Move: A Language With Programmable Resources
+State Machine Replication in the Diem Blockchain
+Blog
+Diem: The Path Forward
+Community
+Join us on the Diem Discourse.
+Ask a question on Stack Overflow.
+Get the latest updates to our project by signing up for our newsletter.
+License
+Diem Core is licensed as Apache 2.0.
+
 # NOTICE : **Consider this project a philanthropic envision.**
 
 I will continued to keep this documentation up to date and it's almost complete locally, I was happy to answer questions that wouldn't potentially expose a private, internal API, unreleased feature, or sensitive 3rd party data. 
