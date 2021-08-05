@@ -1,7 +1,5 @@
 # News
 
-https://investrix.carrd.co
-
 # NOTICE : **Consider this project a philanthropic envision.**
 
 I will continued to keep this documentation up to date and it's almost complete locally, I was happy to answer questions that wouldn't potentially expose a private, internal API, unreleased feature, or sensitive 3rd party data. 
