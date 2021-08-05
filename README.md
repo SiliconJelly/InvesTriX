@@ -4,7 +4,7 @@
 > The project repos are in the process of being migrated. All projects will remain available for use here until the migration to a new GitHub Organization is complete.
 
 <a href="https://developers.investrix.com">
-	<img width="200" src="./.assets/diem.png" alt="InvesTriX Logo" />
+	<img width="200" src="https://investrix.carrd.co/assets/images/image04.png" alt="InvesTriX Logo" />
 </a>
 
 ---
