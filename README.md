@@ -1,11 +1,15 @@
 # News
 
-> **Note to readers:** This is one of my major start-up concept, which was founded August 2021.
+> **Note to readers:** This is still just a concept that shall utilize WEB3.0 resources, which initially was theorized in August 2021.
 > The project repos are in the process of being migrated. All projects will remain available for use here until the migration to a new GitHub Organization is complete.
+
+<div align="center">
 
 <a href="https://developers.investrix.com">
 	<img width="200" src="https://investrix.carrd.co/assets/images/image04.png" alt="InvesTriX Logo" />
 </a>
+
+</div>
 
 ---
 
